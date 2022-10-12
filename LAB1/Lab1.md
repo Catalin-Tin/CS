@@ -127,7 +127,7 @@ Keyword :  Best Course
 Ciphered Text :  OBO SJHHQIAPY
 Message before Ciphering :  FAF COMMUNITY
 ```
-##Vigenere cipher
+## Vigenere cipher
 1. For this specific cipher will be much easier to adjust the text with a specific function that will allow us easier to manipulate while encrypting or decrypting 
 ```
 def generateKey(string, key):
@@ -166,7 +166,7 @@ Enter the keyword: ENTRY
 Encrypted message: LRECMOLEV
 Decrypted message: HELLOKYLE
 ```
-##Playfair cipher
+## Playfair cipher
 1. Function for the matrix
 ```
 def matrix(x, y, initial):
