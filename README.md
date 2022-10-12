@@ -13,4 +13,4 @@
 ## Laboratory work tasks
 
 [Laboratory Work #1](https://github.com/Catalin-Tin/CS/blob/main/LAB1/Lab1.md)
-
+[Laboratory Work #2](https://github.com/Catalin-Tin/CS/blob/main/LAB2/lab2.md)
