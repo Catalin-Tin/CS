@@ -86,7 +86,7 @@ Kevin b'$2b$12$Z0ij/GJLam1MJhVnMeTYbOWXNLOCEfetM2kKQBj1HzhgGteHIs5oG'
 record inserted.
 ```
 5. Last step is to open the database and check the results
-![img_1.png](img_1.png)
+![](../SCREENSHOTS/cs4lab.JPG)
 
 ## Digital Signature using Bcrypt and Elgamal
 1. First step is to encrypt one of the 3 passwords hashed above using Elgamal functions from laboratory 3, where priv is the private key 
