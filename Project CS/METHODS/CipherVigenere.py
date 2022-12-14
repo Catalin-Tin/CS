@@ -24,3 +24,6 @@ def decryption(encrypt_text, key):
         x += ord('A')
         orig_text.append(chr(x))
     return "".join(orig_text)
+
+
+keyword = "CASABLANCA"
