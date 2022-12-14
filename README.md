@@ -19,3 +19,5 @@
 [Laboratory Work #3](https://github.com/Catalin-Tin/CS/blob/main/Project%20CS/REPORTS/lab3.md)
 
 [Laboratory Work #4](https://github.com/Catalin-Tin/CS/blob/main/Project%20CS/REPORTS/lab4.md)
+
+[Laboratory Work #5](https://github.com/Catalin-Tin/CS/blob/main/Project%20CS/REPORTS/lab5.md)
