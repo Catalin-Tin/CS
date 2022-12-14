@@ -1,4 +1,4 @@
-key = input("Enter key: ")
+key = "RESPONSEDUE"
 key = key.replace(" ", "")
 key = key.upper()
 
@@ -44,8 +44,7 @@ def locindex(c):  # get location of each character
                 return loc
 
 
-def encrypt():  # Encryption
-    msg = str(input("ENTER MSG:"))
+def encrypt(msg):  # Encryption
     msg = msg.upper()
     msg = msg.replace(" ", "")
     i = 0
